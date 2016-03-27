@@ -12,7 +12,7 @@ Just use a link like this:
 http://datos-precio-carburante.github.io/json2016h1/{YYYYMMDD}.json
 ```
 
-// example
+Example
 
 http://datos-precio-carburante.github.io/json2016h1/20160327.json
 
@@ -41,7 +41,7 @@ Usa este link:
 http://datos-precio-carburante.github.io/json2016h1/{YYYYMMDD}.json
 ```
 
-// ejemplo
+Ejemplo
 
 http://datos-precio-carburante.github.io/json2016h1/20160327.json
 
@@ -51,7 +51,7 @@ Puedes ver los precios de cualquier día en un mapa, e incluso aplicar algún fi
 
 * App: http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327
 * http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327&filter=only-this&admin=Provincia&list=barcelona // solo la proviincia de Barcelona
-* http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327&filter=only-this&admin=Provincia&list=barcelona&rotulo=repsol // solo gasolineras REPSOL
+* http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327&filter=only-this&admin=Provincia&list=barcelona&rotulo=repsol // solo gasolineras REPSOL dentro de la provincia de Barcelona
 
 * Información: https://raw.githubusercontent.com/sigon426/app-preciocarburante/master/README.md
 * Girhub repo: http://github.com/sigon426/app-preciocarburante
