@@ -13,6 +13,7 @@ http://datos-precio-carburante.github.io/json2016h1/{YYYYMMDD}.json
 ```
 
 // example
+
 http://datos-precio-carburante.github.io/json2016h1/20160327.json
 
 From  [minetur.gob.es/API](https://sedeaplicaciones.minetur.gob.es/ServiciosRESTCarburantes/PreciosCarburantes/EstacionesTerrestres/) only get current day prices are available, that's why this repository could be useful if someone want to check previous prices.
@@ -41,6 +42,7 @@ http://datos-precio-carburante.github.io/json2016h1/{YYYYMMDD}.json
 ```
 
 // ejemplo
+
 http://datos-precio-carburante.github.io/json2016h1/20160327.json
 
 Desde la API del [minetur.gob.es](https://sedeaplicaciones.minetur.gob.es/ServiciosRESTCarburantes/PreciosCarburantes/EstacionesTerrestres/) solo se puede obtener el fichero con los datos del día en curso, por eso este repositorio puede ser util para alguien que quiera obtener ficheros mas antiguos.
