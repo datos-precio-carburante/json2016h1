@@ -45,11 +45,11 @@ http://datos-precio-carburante.github.io/json2016h1/20160327.json
 
 Desde la API del [minetur.gob.es](https://sedeaplicaciones.minetur.gob.es/ServiciosRESTCarburantes/PreciosCarburantes/EstacionesTerrestres/) solo se puede obtener el fichero con los datos del día en curso, por eso este repositorio puede ser util para alguien que quiera obtener ficheros mas antiguos.
 
-Puedes ver los precios de cualquier día en un mapa,e incluso aplicar algún filtro, usando esta web:
+Puedes ver los precios de cualquier día en un mapa, e incluso aplicar algún filtro, usando esta web:
 
 * App: http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327
-* http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327&filter=only-this&admin=Provincia&list=barcelona // only Barcelona province data
-* http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327&filter=only-this&admin=Provincia&list=barcelona&rotulo=repsol // add brand filter
+* http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327&filter=only-this&admin=Provincia&list=barcelona // solo la proviincia de Barcelona
+* http://app-preciocarburante.rhcloud.com/gasolina95?date=20160327&filter=only-this&admin=Provincia&list=barcelona&rotulo=repsol // solo gasolineras REPSOL
 
 * Información: https://raw.githubusercontent.com/sigon426/app-preciocarburante/master/README.md
 * Girhub repo: http://github.com/sigon426/app-preciocarburante
