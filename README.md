@@ -6,7 +6,7 @@ This repo include json files taken daily from [minetur.gob.es](https://sedeaplic
  aka Ministry of Industry, Energy and Tourism
 This files that can be used anywhere as all **GitHub Pages** sites now have CORS headers set by default.
 
-Just use a link like this:
+Just use a link like this :
 
 ```
 http://datos-precio-carburante.github.io/json2016h1/{YYYYMMDD}.json
